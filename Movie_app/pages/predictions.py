@@ -39,7 +39,7 @@ column1 = dbc.Col(
             className='mb-5', 
         ), 
         
-	dcc.Markdown('#### Top Director'),
+	dcc.Markdown('#### Top Director, reference: https://www.imdb.com/list/ls066140407/'),
         dcc.Dropdown(
             id='top_director',
             options = [{'label': i, 'value':i} for i in available_indicators3],
