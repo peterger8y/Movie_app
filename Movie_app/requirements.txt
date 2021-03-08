@@ -1,0 +1,9 @@
+dash
+dash-bootstrap-components
+gunicorn 
+plotly 
+pandas 
+joblib 
+scikit-learn
+category-encoders
+seaborn
