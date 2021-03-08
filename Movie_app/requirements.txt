@@ -1,9 +1,9 @@
-dash == 1.9.1
-dash-bootstrap-components = *
+dash
+dash-bootstrap-components
 gunicorn
 plotly
 pandas 
-joblib = 1.0.1
+joblib 
 scikit-learn
 seaborn
 
