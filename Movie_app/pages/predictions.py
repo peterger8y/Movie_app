@@ -1,7 +1,7 @@
 # Imports from 3rd party libraries
 import dash
 from joblib import load
-pipeline = load('/Users/petergeraghty/Movie_app/Movie_app/assets/pipline-2.joblib')
+pipeline = load('/Movie_app/Movie_app/assets/pipline-2.joblib')
 import dash_bootstrap_components as dbc
 import dash_core_components as dcc
 import dash_html_components as html
